@@ -1,0 +1,5 @@
+{
+  "name": "Solar System Simulator",
+  "description": "An interactive 2D simulation of the solar system with adjustable time scale and zoom.",
+  "requestFramePermissions": []
+}
